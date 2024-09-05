@@ -1,6 +1,5 @@
-import Image, { StaticImageData } from "next/image";
+import Image from "next/image";
 import img from '../assests/lakeView.jpg'
-import Navbar from "./components/Navbar";
 import logo from "./favicon.png"
 import Head from "next/head";
 
